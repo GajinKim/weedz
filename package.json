@@ -1,0 +1,26 @@
+{
+  "name": "weedz",
+  "version": "1.0.6",
+  "description": "npm package for configuration storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GajinKim/npm-config-manager.git"
+  },
+  "author": "Gajin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GajinKim/npm-config-manager/issues"
+  },
+  "homepage": "https://github.com/GajinKim/npm-config-manager#readme",
+  "bin": {
+    "weed": "./index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "keywords": ["weed", "420", "blaze"]
+}
