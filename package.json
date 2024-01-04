@@ -1,6 +1,6 @@
 {
   "name": "weedz",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "npm package for configuration storage",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GajinKim/npm-config-manager.git"
+    "url": "git+https://github.com/GajinKim/weedz.git"
   },
   "author": "Gajin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GajinKim/npm-config-manager/issues"
+    "url": "https://github.com/GajinKim/weedz/issues"
   },
-  "homepage": "https://github.com/GajinKim/npm-config-manager#readme",
+  "homepage": "https://github.com/GajinKim/weedz#readme",
   "bin": {
     "weed": "./index.js"
   },
