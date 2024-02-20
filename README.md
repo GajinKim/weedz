@@ -15,6 +15,10 @@ weed blaze # prints "420 blaze it"
 weed yeet # prints "420 yeet it"
 ```
 
+```bash
+weed test # prints "all tests are blazin'"
+```
+
 ## Useful References for future use
 
 - https://www.npmjs.com/package/yargs
